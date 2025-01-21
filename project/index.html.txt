@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Academic, Health & Hiring Platform</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Academic, Health & Hiring Platform</h1>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About Us</a>
+        <a href="contact.html">Contact</a>
+        <a href="#" id="signup">Sign Up</a>
+        <a href="#" id="signin">Sign In</a>
+    </nav>
+
+    <main id="home">
+        <section>
+            <h2>Hire Online Workers</h2>
+            <p>Find the right talent for your projects with ease.</p>
+        </section>
+
+        <section>
+            <h2>Upload Academic Papers</h2>
+            <p>Submit your academic writing for review and sharing.</p>
+        </section>
+
+        <section>
+            <h2>Health Research Uploads</h2>
+            <p>Upload and explore the latest health-related research.</p>
+        </section>
+
+        <section>
+            <h2>Advertisements</h2>
+            <p>Advertise your services or browse advertisements.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Academic, Health & Hiring Platform. All rights reserved.</p>
+    </footer>
+
+    <script src="scripts/script.js"></script>
+</body>
+</html>

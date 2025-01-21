@@ -1,0 +1,7 @@
+document.getElementById("signup").addEventListener("click", () => {
+    alert("Sign-up functionality coming soon!");
+});
+
+document.getElementById("signin").addEventListener("click", () => {
+    alert("Sign-in functionality coming soon!");
+});
